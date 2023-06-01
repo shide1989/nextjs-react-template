@@ -1,0 +1,1624 @@
+{
+  "nhits": 12265,
+  "parameters": {
+    "dataset": "lieux-de-tournage-a-paris",
+    "rows": 10,
+    "start": 0,
+    "facet": [
+      "annee_tournage",
+      "type_tournage",
+      "nom_tournage",
+      "nom_realisateur",
+      "ardt_lieu"
+    ],
+    "format": "json",
+    "timezone": "UTC"
+  },
+  "records": [
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "86645313c72e7f73738059bd5348a2342c113acb",
+      "fields": {
+        "coord_y": 48.84129975,
+        "date_fin": "2018-11-10",
+        "id_lieu": "2018-1293",
+        "adresse_lieu": "100 rue mouffetard, 75005 paris",
+        "geo_point_2d": [48.84129975185761, 2.3495550599403665],
+        "nom_producteur": "3B Production",
+        "geo_shape": {
+          "coordinates": [2.3495550599403665, 48.84129975185761],
+          "type": "Point"
+        },
+        "nom_realisateur": "Hirokazu Kore-Eda",
+        "ardt_lieu": "75005",
+        "type_tournage": "Long m\u00e9trage",
+        "annee_tournage": "2018",
+        "nom_tournage": "La Verit\u00e9",
+        "date_debut": "2018-11-09",
+        "coord_x": 2.34955506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3495550599403665, 48.84129975185761]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "7200a4c19ea63716309d28de551d7b072a347538",
+      "fields": {
+        "coord_y": 48.85518715,
+        "date_fin": "2019-03-16",
+        "id_lieu": "2019-248",
+        "adresse_lieu": "12 place des vosges, 75004 paris",
+        "geo_point_2d": [48.85518715072756, 2.366439006314124],
+        "nom_producteur": "SKM Productions",
+        "geo_shape": {
+          "coordinates": [2.366439006314124, 48.85518715072756],
+          "type": "Point"
+        },
+        "nom_realisateur": "Eli Ben-David",
+        "ardt_lieu": "75004",
+        "type_tournage": "S\u00e9rie TV",
+        "annee_tournage": "2019",
+        "nom_tournage": "L'Attach\u00e9",
+        "date_debut": "2019-03-16",
+        "coord_x": 2.36643901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.366439006314124, 48.85518715072756]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "135814e84555cd60c7a37c965990279fac017eae",
+      "fields": {
+        "coord_y": 48.84950862,
+        "date_fin": "2019-05-24",
+        "id_lieu": "2019-537",
+        "adresse_lieu": "103 boulevard suchet, 75016 paris",
+        "geo_point_2d": [48.84950861991641, 2.2598883809377233],
+        "nom_producteur": "atlantique productions",
+        "geo_shape": {
+          "coordinates": [2.2598883809377233, 48.84950861991641],
+          "type": "Point"
+        },
+        "nom_realisateur": "Damien Chazelle",
+        "ardt_lieu": "75016",
+        "type_tournage": "S\u00e9rie TV",
+        "annee_tournage": "2019",
+        "nom_tournage": "The Eddy",
+        "date_debut": "2019-05-24",
+        "coord_x": 2.25988838
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2598883809377233, 48.84950861991641]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "04cdae43f72886893f53178ec143a602c6b9569e",
+      "fields": {
+        "coord_y": 48.89707751,
+        "date_fin": "2019-11-13",
+        "id_lieu": "2019-1532",
+        "adresse_lieu": "96 rue du poteau, 75018 paris",
+        "geo_point_2d": [48.89707750670509, 2.3382619281788455],
+        "nom_producteur": "GETEVE PRODUCTIONS",
+        "geo_shape": {
+          "coordinates": [2.3382619281788455, 48.89707750670509],
+          "type": "Point"
+        },
+        "ardt_lieu": "75018",
+        "type_tournage": "S\u00e9rie Web",
+        "annee_tournage": "2019",
+        "nom_tournage": "SKAM SAISON 5 ET 6 SEMAINE 6 SUR 9",
+        "date_debut": "2019-11-11",
+        "coord_x": 2.33826193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3382619281788455, 48.89707750670509]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "f4ab91ff6dddfba5ff6d92546c65668344a1c671",
+      "fields": {
+        "coord_y": 48.86738609,
+        "date_fin": "2019-11-14",
+        "id_lieu": "2019-1538",
+        "adresse_lieu": "10 place de la r\u00e9publique, 75011 paris",
+        "geo_point_2d": [48.867386093161386, 2.3652485328439705],
+        "nom_producteur": "FROGGIE PRODUCTION",
+        "geo_shape": {
+          "coordinates": [2.3652485328439705, 48.867386093161386],
+          "type": "Point"
+        },
+        "nom_realisateur": "Jim Bagdonas",
+        "ardt_lieu": "75011",
+        "type_tournage": "S\u00e9rie TV",
+        "annee_tournage": "2019",
+        "nom_tournage": "MODERN FAMILY - Saison 11 - FINALE",
+        "date_debut": "2019-11-14",
+        "coord_x": 2.36524853
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3652485328439705, 48.867386093161386]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "cba36d82124b18e0844f2c688dfd72c1035ea05b",
+      "fields": {
+        "coord_y": 48.85888466,
+        "date_fin": "2019-05-28",
+        "id_lieu": "2019-543",
+        "adresse_lieu": "rue de constantine, 75007 paris",
+        "geo_point_2d": [48.85888465945563, 2.314712864215335],
+        "nom_producteur": "4 MECS EN BASKETS",
+        "geo_shape": {
+          "coordinates": [2.314712864215335, 48.85888465945563],
+          "type": "Point"
+        },
+        "nom_realisateur": "ERIC JUDOR",
+        "ardt_lieu": "75007",
+        "type_tournage": "S\u00e9rie TV",
+        "annee_tournage": "2019",
+        "nom_tournage": "PLATANE SAISON 3",
+        "date_debut": "2019-05-28",
+        "coord_x": 2.31471286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.314712864215335, 48.85888465945563]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "41e89b3489b936325e945552f65cc9ed077ec0df",
+      "fields": {
+        "coord_y": 48.88509422,
+        "date_fin": "2018-08-06",
+        "id_lieu": "2018-922",
+        "adresse_lieu": "rue de lorraine, 75019 paris",
+        "geo_point_2d": [48.885094220641335, 2.3837555967924327],
+        "nom_producteur": "Bien ou bien Productions",
+        "geo_shape": {
+          "coordinates": [2.3837555967924327, 48.885094220641335],
+          "type": "Point"
+        },
+        "nom_realisateur": "Ma\u00efmouna Doucour\u00e9",
+        "ardt_lieu": "75019",
+        "type_tournage": "Long m\u00e9trage",
+        "annee_tournage": "2018",
+        "nom_tournage": "Les Mignonnes",
+        "date_debut": "2018-08-06",
+        "coord_x": 2.3837556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3837555967924327, 48.885094220641335]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "2cc832a3757e83b115af7fbe6178895897aa82c1",
+      "fields": {
+        "coord_y": 48.853572,
+        "date_fin": "2016-04-07",
+        "id_lieu": "2016-2658",
+        "adresse_lieu": "RUE\u00a0 ALEXANDRE DUMAS",
+        "geo_point_2d": [48.853572000237314, 2.3925709999142297],
+        "nom_producteur": "MAKING PROD",
+        "geo_shape": {
+          "coordinates": [2.3925709999142297, 48.853572000237314],
+          "type": "Point"
+        },
+        "nom_realisateur": "VINCENT PRIMAULT",
+        "ardt_lieu": "75011",
+        "type_tournage": "S\u00e9rie TV",
+        "annee_tournage": "2016",
+        "nom_tournage": "IN AMERICA",
+        "date_debut": "2016-04-07",
+        "coord_x": 2.392571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3925709999142297, 48.853572000237314]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "0ad7825263f376b8ec20bcc7caf7bb8d6265b0d7",
+      "fields": {
+        "coord_y": 48.82793218,
+        "date_fin": "2020-12-22",
+        "id_lieu": "2020-1102",
+        "adresse_lieu": "rue de la butte aux cailles, 75013 paris",
+        "geo_point_2d": [48.82793217601983, 2.351378187273677],
+        "nom_producteur": "ATELIER DE PRODUCTION",
+        "geo_shape": {
+          "coordinates": [2.351378187273677, 48.82793217601983],
+          "type": "Point"
+        },
+        "nom_realisateur": "Sylvie Verheyde",
+        "ardt_lieu": "75013",
+        "type_tournage": "Long m\u00e9trage",
+        "annee_tournage": "2020",
+        "nom_tournage": "STELLA EST AMOUREUSE",
+        "date_debut": "2020-12-22",
+        "coord_x": 2.35137819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.351378187273677, 48.82793217601983]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    },
+    {
+      "datasetid": "lieux-de-tournage-a-paris",
+      "recordid": "36162bc398c1229728ca5f52817967cafb9c3dee",
+      "fields": {
+        "coord_y": 48.86094047,
+        "date_fin": "2020-12-22",
+        "id_lieu": "2020-1122",
+        "adresse_lieu": "place joachim du bellay, 75001 paris",
+        "geo_point_2d": [48.86094046750016, 2.3477222716177035],
+        "nom_producteur": "ATELIER DE PRODUCTION",
+        "geo_shape": {
+          "coordinates": [2.3477222716177035, 48.86094046750016],
+          "type": "Point"
+        },
+        "nom_realisateur": "Sylvie Verheyde",
+        "ardt_lieu": "75001",
+        "type_tournage": "Long m\u00e9trage",
+        "annee_tournage": "2020",
+        "nom_tournage": "STELLA EST AMOUREUSE",
+        "date_debut": "2020-12-22",
+        "coord_x": 2.34772227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3477222716177035, 48.86094046750016]
+      },
+      "record_timestamp": "2023-05-15T16:13:49.883Z"
+    }
+  ],
+  "facet_groups": [
+    {
+      "name": "annee_tournage",
+      "facets": [
+        { "name": "2016", "count": 2660, "state": "displayed", "path": "2016" },
+        { "name": "2017", "count": 1743, "state": "displayed", "path": "2017" },
+        { "name": "2018", "count": 1579, "state": "displayed", "path": "2018" },
+        { "name": "2019", "count": 1760, "state": "displayed", "path": "2019" },
+        { "name": "2020", "count": 1177, "state": "displayed", "path": "2020" },
+        { "name": "2021", "count": 1847, "state": "displayed", "path": "2021" },
+        { "name": "2022", "count": 1499, "state": "displayed", "path": "2022" }
+      ]
+    },
+    {
+      "name": "type_tournage",
+      "facets": [
+        {
+          "name": "Long m\u00e9trage",
+          "count": 6474,
+          "state": "displayed",
+          "path": "Long m\u00e9trage"
+        },
+        {
+          "name": "S\u00e9rie TV",
+          "count": 4591,
+          "state": "displayed",
+          "path": "S\u00e9rie TV"
+        },
+        {
+          "name": "T\u00e9l\u00e9film",
+          "count": 652,
+          "state": "displayed",
+          "path": "T\u00e9l\u00e9film"
+        },
+        {
+          "name": "S\u00e9rie Web",
+          "count": 548,
+          "state": "displayed",
+          "path": "S\u00e9rie Web"
+        }
+      ]
+    },
+    {
+      "name": "nom_tournage",
+      "facets": [
+        {
+          "name": "Emily in Paris",
+          "count": 154,
+          "state": "displayed",
+          "path": "Emily in Paris"
+        },
+        {
+          "name": "BEFIKRE",
+          "count": 129,
+          "state": "displayed",
+          "path": "BEFIKRE"
+        },
+        {
+          "name": "STELLA EST AMOUREUSE",
+          "count": 109,
+          "state": "displayed",
+          "path": "STELLA EST AMOUREUSE"
+        },
+        {
+          "name": "LES HOMMES DE L'OMBRE",
+          "count": 71,
+          "state": "displayed",
+          "path": "LES HOMMES DE L'OMBRE"
+        },
+        {
+          "name": "10%/SAISON 2",
+          "count": 69,
+          "state": "displayed",
+          "path": "10%/SAISON 2"
+        },
+        {
+          "name": "DEMAIN ET TOUS LES AUTRES JOURS (2)",
+          "count": 62,
+          "state": "displayed",
+          "path": "DEMAIN ET TOUS LES AUTRES JOURS (2)"
+        },
+        {
+          "name": "TIKKOUN",
+          "count": 62,
+          "state": "displayed",
+          "path": "TIKKOUN"
+        },
+        {
+          "name": "Vernon Subutex",
+          "count": 60,
+          "state": "displayed",
+          "path": "Vernon Subutex"
+        },
+        {
+          "name": "NOTRE-DAME, LA PART DU FEU",
+          "count": 59,
+          "state": "displayed",
+          "path": "NOTRE-DAME, LA PART DU FEU"
+        },
+        {
+          "name": "The Eddy",
+          "count": 59,
+          "state": "displayed",
+          "path": "The Eddy"
+        },
+        {
+          "name": "LRDM - Patriot season 2",
+          "count": 57,
+          "state": "displayed",
+          "path": "LRDM - Patriot season 2"
+        },
+        {
+          "name": "Can't Buy me love",
+          "count": 56,
+          "state": "displayed",
+          "path": "Can't Buy me love"
+        },
+        {
+          "name": "DIX POUR CENT SAISON 3",
+          "count": 55,
+          "state": "displayed",
+          "path": "DIX POUR CENT SAISON 3"
+        },
+        {
+          "name": "Ars\u00e8ne Lupin",
+          "count": 54,
+          "state": "displayed",
+          "path": "Ars\u00e8ne Lupin"
+        },
+        {
+          "name": "CHRONIQUES PARISIENNES",
+          "count": 54,
+          "state": "displayed",
+          "path": "CHRONIQUES PARISIENNES"
+        },
+        {
+          "name": "IRMA VEP SERIAL",
+          "count": 54,
+          "state": "displayed",
+          "path": "IRMA VEP SERIAL"
+        },
+        {
+          "name": "THE NEW LOOK",
+          "count": 54,
+          "state": "displayed",
+          "path": "THE NEW LOOK"
+        },
+        { "name": "SUN", "count": 53, "state": "displayed", "path": "SUN" },
+        {
+          "name": "MARIE FRANCINE",
+          "count": 52,
+          "state": "displayed",
+          "path": "MARIE FRANCINE"
+        },
+        { "name": "SALLI", "count": 51, "state": "displayed", "path": "SALLI" },
+        {
+          "name": "GAPCI 2",
+          "count": 48,
+          "state": "displayed",
+          "path": "GAPCI 2"
+        },
+        {
+          "name": "VOLTAIRE",
+          "count": 48,
+          "state": "displayed",
+          "path": "VOLTAIRE"
+        },
+        {
+          "name": "EMILY IN PARIS SAISON 3",
+          "count": 47,
+          "state": "displayed",
+          "path": "EMILY IN PARIS SAISON 3"
+        },
+        {
+          "name": "CHEFS - SAISON 2",
+          "count": 46,
+          "state": "displayed",
+          "path": "CHEFS - SAISON 2"
+        },
+        {
+          "name": "PLAN B",
+          "count": 45,
+          "state": "displayed",
+          "path": "PLAN B"
+        },
+        {
+          "name": "MY DAUGHTER, MY LOVE",
+          "count": 44,
+          "state": "displayed",
+          "path": "MY DAUGHTER, MY LOVE"
+        },
+        {
+          "name": "ENGRENAGES SAISON 8",
+          "count": 43,
+          "state": "displayed",
+          "path": "ENGRENAGES SAISON 8"
+        },
+        { "name": "MUNCH", "count": 42, "state": "displayed", "path": "MUNCH" },
+        {
+          "name": "THE PACKAGE",
+          "count": 41,
+          "state": "displayed",
+          "path": "THE PACKAGE"
+        },
+        { "name": "GC5", "count": 40, "state": "displayed", "path": "GC5" },
+        {
+          "name": "GEMINI",
+          "count": 40,
+          "state": "displayed",
+          "path": "GEMINI"
+        },
+        {
+          "name": "Dix pour cent - Saison 4",
+          "count": 39,
+          "state": "displayed",
+          "path": "Dix pour cent - Saison 4"
+        },
+        { "name": "PLAY", "count": 39, "state": "displayed", "path": "PLAY" },
+        {
+          "name": "UN VOYAGE EN HIVER",
+          "count": 39,
+          "state": "displayed",
+          "path": "UN VOYAGE EN HIVER"
+        },
+        { "name": "I3P", "count": 38, "state": "displayed", "path": "I3P" },
+        {
+          "name": "JUST DIVORCED",
+          "count": 38,
+          "state": "displayed",
+          "path": "JUST DIVORCED"
+        },
+        {
+          "name": "LA DOULEUR",
+          "count": 38,
+          "state": "displayed",
+          "path": "LA DOULEUR"
+        },
+        {
+          "name": "SI J'ETAIS UN HOMME",
+          "count": 38,
+          "state": "displayed",
+          "path": "SI J'ETAIS UN HOMME"
+        },
+        {
+          "name": "IRIS/EX CHAOS",
+          "count": 37,
+          "state": "displayed",
+          "path": "IRIS/EX CHAOS"
+        },
+        {
+          "name": "NOTRE DAME BRULE",
+          "count": 37,
+          "state": "displayed",
+          "path": "NOTRE DAME BRULE"
+        },
+        {
+          "name": "TOUT SIMPLEMENT NOIR",
+          "count": 37,
+          "state": "displayed",
+          "path": "TOUT SIMPLEMENT NOIR"
+        },
+        {
+          "name": "Citoyens clandestins",
+          "count": 35,
+          "state": "displayed",
+          "path": "Citoyens clandestins"
+        },
+        {
+          "name": "ENGRENAGES SAISON 6/N\u00b0 7 A 12",
+          "count": 35,
+          "state": "displayed",
+          "path": "ENGRENAGES SAISON 6/N\u00b0 7 A 12"
+        },
+        {
+          "name": "JE NE SUIS PAS UN HOMME FACILE",
+          "count": 35,
+          "state": "displayed",
+          "path": "JE NE SUIS PAS UN HOMME FACILE"
+        },
+        {
+          "name": "Osmosis",
+          "count": 35,
+          "state": "displayed",
+          "path": "Osmosis"
+        },
+        {
+          "name": "THE ESCAPE",
+          "count": 34,
+          "state": "displayed",
+          "path": "THE ESCAPE"
+        },
+        { "name": "FORTE", "count": 33, "state": "displayed", "path": "FORTE" },
+        {
+          "name": "LE REDOUTABLE",
+          "count": 33,
+          "state": "displayed",
+          "path": "LE REDOUTABLE"
+        },
+        {
+          "name": "LA PAGE BLANCHE",
+          "count": 32,
+          "state": "displayed",
+          "path": "LA PAGE BLANCHE"
+        },
+        {
+          "name": "THE HUNTING",
+          "count": 32,
+          "state": "displayed",
+          "path": "THE HUNTING"
+        },
+        {
+          "name": "DESORDRES",
+          "count": 31,
+          "state": "displayed",
+          "path": "DESORDRES"
+        },
+        { "name": "LEILA", "count": 31, "state": "displayed", "path": "LEILA" },
+        {
+          "name": "La nuit, je mens...",
+          "count": 31,
+          "state": "displayed",
+          "path": "La nuit, je mens..."
+        },
+        {
+          "name": "Luther",
+          "count": 31,
+          "state": "displayed",
+          "path": "Luther"
+        },
+        {
+          "name": "120 BATTEMENTS PAR MINUTE",
+          "count": 30,
+          "state": "displayed",
+          "path": "120 BATTEMENTS PAR MINUTE"
+        },
+        {
+          "name": "LA VIE DE CHATEAU",
+          "count": 30,
+          "state": "displayed",
+          "path": "LA VIE DE CHATEAU"
+        },
+        {
+          "name": "LES EX",
+          "count": 30,
+          "state": "displayed",
+          "path": "LES EX"
+        },
+        {
+          "name": "LES FEMMES DU SQUARE",
+          "count": 30,
+          "state": "displayed",
+          "path": "LES FEMMES DU SQUARE"
+        },
+        {
+          "name": "LOUE MOI",
+          "count": 30,
+          "state": "displayed",
+          "path": "LOUE MOI"
+        },
+        {
+          "name": "Ma France \u00e0 moi",
+          "count": 30,
+          "state": "displayed",
+          "path": "Ma France \u00e0 moi"
+        },
+        {
+          "name": "PARENT D'ELEVE",
+          "count": 30,
+          "state": "displayed",
+          "path": "PARENT D'ELEVE"
+        },
+        {
+          "name": "PETITE LE\u00c7ON D'AMOUR",
+          "count": 30,
+          "state": "displayed",
+          "path": "PETITE LE\u00c7ON D'AMOUR"
+        },
+        {
+          "name": "UNE BELLE COURSE",
+          "count": 30,
+          "state": "displayed",
+          "path": "UNE BELLE COURSE"
+        },
+        {
+          "name": "\u00c0 jamais fid\u00e8le",
+          "count": 30,
+          "state": "displayed",
+          "path": "\u00c0 jamais fid\u00e8le"
+        },
+        {
+          "name": "LA MELODIE",
+          "count": 29,
+          "state": "displayed",
+          "path": "LA MELODIE"
+        },
+        {
+          "name": "REVOIR PARIS",
+          "count": 29,
+          "state": "displayed",
+          "path": "REVOIR PARIS"
+        },
+        {
+          "name": "VAMPIRES",
+          "count": 29,
+          "state": "displayed",
+          "path": "VAMPIRES"
+        },
+        {
+          "name": "Vingt-cinq",
+          "count": 29,
+          "state": "displayed",
+          "path": "Vingt-cinq"
+        },
+        {
+          "name": "NEW FRENCH VIDEO",
+          "count": 28,
+          "state": "displayed",
+          "path": "NEW FRENCH VIDEO"
+        },
+        {
+          "name": "Rue des dames",
+          "count": 28,
+          "state": "displayed",
+          "path": "Rue des dames"
+        },
+        {
+          "name": "ARSENE LUPIN",
+          "count": 27,
+          "state": "displayed",
+          "path": "ARSENE LUPIN"
+        },
+        {
+          "name": "MURDER MYSTERY 2",
+          "count": 27,
+          "state": "displayed",
+          "path": "MURDER MYSTERY 2"
+        },
+        {
+          "name": "Plan Coeur S2",
+          "count": 27,
+          "state": "displayed",
+          "path": "Plan Coeur S2"
+        },
+        {
+          "name": "Seize Printemps",
+          "count": 27,
+          "state": "displayed",
+          "path": "Seize Printemps"
+        },
+        {
+          "name": "COEXISTER",
+          "count": 26,
+          "state": "displayed",
+          "path": "COEXISTER"
+        },
+        { "name": "Karma", "count": 26, "state": "displayed", "path": "Karma" },
+        {
+          "name": "L'extraordinaire voyage du Fakir",
+          "count": 26,
+          "state": "displayed",
+          "path": "L'extraordinaire voyage du Fakir"
+        },
+        {
+          "name": "LE PARFUM VERT",
+          "count": 26,
+          "state": "displayed",
+          "path": "LE PARFUM VERT"
+        },
+        {
+          "name": "LIANG SHENG",
+          "count": 26,
+          "state": "displayed",
+          "path": "LIANG SHENG"
+        },
+        {
+          "name": "MEMOIRE TROUBLE",
+          "count": 26,
+          "state": "displayed",
+          "path": "MEMOIRE TROUBLE"
+        },
+        {
+          "name": "SYNDROME E",
+          "count": 26,
+          "state": "displayed",
+          "path": "SYNDROME E"
+        },
+        {
+          "name": "TANGUY 2",
+          "count": 26,
+          "state": "displayed",
+          "path": "TANGUY 2"
+        },
+        {
+          "name": "UNE COM\u00c9DIE ROMANTIQUE",
+          "count": 26,
+          "state": "displayed",
+          "path": "UNE COM\u00c9DIE ROMANTIQUE"
+        },
+        {
+          "name": "ALICE NEVERS",
+          "count": 25,
+          "state": "displayed",
+          "path": "ALICE NEVERS"
+        },
+        {
+          "name": "BARBER TRUCK",
+          "count": 25,
+          "state": "displayed",
+          "path": "BARBER TRUCK"
+        },
+        { "name": "Clem", "count": 25, "state": "displayed", "path": "Clem" },
+        { "name": "DROLE", "count": 25, "state": "displayed", "path": "DROLE" },
+        {
+          "name": "ENGRENAGES SAISON 7",
+          "count": 25,
+          "state": "displayed",
+          "path": "ENGRENAGES SAISON 7"
+        },
+        {
+          "name": "FAMILY BUSINESS S2",
+          "count": 25,
+          "state": "displayed",
+          "path": "FAMILY BUSINESS S2"
+        },
+        { "name": "JULIA", "count": 25, "state": "displayed", "path": "JULIA" },
+        {
+          "name": "MARIAGE BLANC",
+          "count": 25,
+          "state": "displayed",
+          "path": "MARIAGE BLANC"
+        },
+        { "name": "NADIA", "count": 25, "state": "displayed", "path": "NADIA" },
+        {
+          "name": "VALID\u00c9",
+          "count": 25,
+          "state": "displayed",
+          "path": "VALID\u00c9"
+        },
+        {
+          "name": "ASTRID ET RAPHA\u00cbLLE",
+          "count": 24,
+          "state": "displayed",
+          "path": "ASTRID ET RAPHA\u00cbLLE"
+        },
+        {
+          "name": "L'AMANT D'UN JOUR",
+          "count": 24,
+          "state": "displayed",
+          "path": "L'AMANT D'UN JOUR"
+        },
+        {
+          "name": "LOVE LOCKS",
+          "count": 24,
+          "state": "displayed",
+          "path": "LOVE LOCKS"
+        },
+        {
+          "name": "La Goutte d'Or",
+          "count": 24,
+          "state": "displayed",
+          "path": "La Goutte d'Or"
+        },
+        {
+          "name": "NOIR ENIGMA",
+          "count": 24,
+          "state": "displayed",
+          "path": "NOIR ENIGMA"
+        },
+        {
+          "name": "UNE MERE PARFAITE",
+          "count": 24,
+          "state": "displayed",
+          "path": "UNE MERE PARFAITE"
+        },
+        {
+          "name": "YOUR HONOR",
+          "count": 24,
+          "state": "displayed",
+          "path": "YOUR HONOR"
+        }
+      ]
+    },
+    {
+      "name": "nom_realisateur",
+      "facets": [
+        {
+          "name": "Darren Star",
+          "count": 149,
+          "state": "displayed",
+          "path": "Darren Star"
+        },
+        {
+          "name": "ADITYA CHOPRA",
+          "count": 129,
+          "state": "displayed",
+          "path": "ADITYA CHOPRA"
+        },
+        {
+          "name": "Sylvie Verheyde",
+          "count": 109,
+          "state": "displayed",
+          "path": "Sylvie Verheyde"
+        },
+        {
+          "name": "FRED GARSON",
+          "count": 99,
+          "state": "displayed",
+          "path": "FRED GARSON"
+        },
+        {
+          "name": "ZABOU BREITMAN",
+          "count": 90,
+          "state": "displayed",
+          "path": "ZABOU BREITMAN"
+        },
+        {
+          "name": "JEANNE HERRY",
+          "count": 69,
+          "state": "displayed",
+          "path": "JEANNE HERRY"
+        },
+        {
+          "name": "IGOR GOTESMAN",
+          "count": 67,
+          "state": "displayed",
+          "path": "IGOR GOTESMAN"
+        },
+        {
+          "name": "NOVEMIE LVOVSKY",
+          "count": 62,
+          "state": "displayed",
+          "path": "NOVEMIE LVOVSKY"
+        },
+        {
+          "name": "HERV\u00c9 HADMAR",
+          "count": 59,
+          "state": "displayed",
+          "path": "HERV\u00c9 HADMAR"
+        },
+        {
+          "name": "Steven Conrad",
+          "count": 58,
+          "state": "displayed",
+          "path": "Steven Conrad"
+        },
+        {
+          "name": "XAVIER GIANNOLI",
+          "count": 58,
+          "state": "displayed",
+          "path": "XAVIER GIANNOLI"
+        },
+        {
+          "name": "Olivier Assayas",
+          "count": 57,
+          "state": "displayed",
+          "path": "Olivier Assayas"
+        },
+        {
+          "name": "Damien Chazelle",
+          "count": 53,
+          "state": "displayed",
+          "path": "Damien Chazelle"
+        },
+        {
+          "name": "VALERIE LEMERCIER",
+          "count": 52,
+          "state": "displayed",
+          "path": "VALERIE LEMERCIER"
+        },
+        {
+          "name": "Chien Hung LIEN",
+          "count": 51,
+          "state": "displayed",
+          "path": "Chien Hung LIEN"
+        },
+        {
+          "name": "Stephen Woolfenden",
+          "count": 48,
+          "state": "displayed",
+          "path": "Stephen Woolfenden"
+        },
+        {
+          "name": "NOEMIE SAGLIO",
+          "count": 47,
+          "state": "displayed",
+          "path": "NOEMIE SAGLIO"
+        },
+        {
+          "name": "ARNAUD MALHERBE",
+          "count": 46,
+          "state": "displayed",
+          "path": "ARNAUD MALHERBE"
+        },
+        {
+          "name": "FREDERIC BERTHE",
+          "count": 46,
+          "state": "displayed",
+          "path": "FREDERIC BERTHE"
+        },
+        {
+          "name": "Christophe CAMPOS",
+          "count": 45,
+          "state": "displayed",
+          "path": "Christophe CAMPOS"
+        },
+        {
+          "name": "Jean-Philippe Amar",
+          "count": 42,
+          "state": "displayed",
+          "path": "Jean-Philippe Amar"
+        },
+        {
+          "name": "ANDREW FLEMING, ERIN EHRLICH, PETER LAUER, KATINA MEDINA MORA",
+          "count": 41,
+          "state": "displayed",
+          "path": "ANDREW FLEMING, ERIN EHRLICH, PETER LAUER, KATINA MEDINA MORA"
+        },
+        {
+          "name": "CHANG KEUN CHUN",
+          "count": 41,
+          "state": "displayed",
+          "path": "CHANG KEUN CHUN"
+        },
+        {
+          "name": "Antoine Garceau et Marc Fitoussi",
+          "count": 40,
+          "state": "displayed",
+          "path": "Antoine Garceau et Marc Fitoussi"
+        },
+        {
+          "name": "GUILLAUME CANET",
+          "count": 40,
+          "state": "displayed",
+          "path": "GUILLAUME CANET"
+        },
+        {
+          "name": "LISA AZUELOS",
+          "count": 40,
+          "state": "displayed",
+          "path": "LISA AZUELOS"
+        },
+        {
+          "name": "AUDREY DANA",
+          "count": 39,
+          "state": "displayed",
+          "path": "AUDREY DANA"
+        },
+        {
+          "name": "Antoine GARCEAU - Marc FITOUSSI",
+          "count": 39,
+          "state": "displayed",
+          "path": "Antoine GARCEAU - Marc FITOUSSI"
+        },
+        {
+          "name": "EMMANUEL FINKIEL",
+          "count": 38,
+          "state": "displayed",
+          "path": "EMMANUEL FINKIEL"
+        },
+        {
+          "name": "Jean-Jacques ANNAUD",
+          "count": 38,
+          "state": "displayed",
+          "path": "Jean-Jacques ANNAUD"
+        },
+        {
+          "name": "J\u00e9r\u00e9my MINUI",
+          "count": 38,
+          "state": "displayed",
+          "path": "J\u00e9r\u00e9my MINUI"
+        },
+        {
+          "name": "MAXIME GOVARE",
+          "count": 38,
+          "state": "displayed",
+          "path": "MAXIME GOVARE"
+        },
+        {
+          "name": "NICOLAS GUICHETEAU",
+          "count": 38,
+          "state": "displayed",
+          "path": "NICOLAS GUICHETEAU"
+        },
+        {
+          "name": "JALIL LESPERT",
+          "count": 37,
+          "state": "displayed",
+          "path": "JALIL LESPERT"
+        },
+        {
+          "name": "Jonathan Desoindre",
+          "count": 36,
+          "state": "displayed",
+          "path": "Jonathan Desoindre"
+        },
+        {
+          "name": "Val\u00e9rie Donzelli",
+          "count": 36,
+          "state": "displayed",
+          "path": "Val\u00e9rie Donzelli"
+        },
+        {
+          "name": "ELEONORE POURRIAT",
+          "count": 35,
+          "state": "displayed",
+          "path": "ELEONORE POURRIAT"
+        },
+        {
+          "name": "FREDERIC MERMOUD",
+          "count": 35,
+          "state": "displayed",
+          "path": "FREDERIC MERMOUD"
+        },
+        {
+          "name": "Laetitia MASSON",
+          "count": 35,
+          "state": "displayed",
+          "path": "Laetitia MASSON"
+        },
+        {
+          "name": "DOMINIC SAVAGE",
+          "count": 34,
+          "state": "displayed",
+          "path": "DOMINIC SAVAGE"
+        },
+        {
+          "name": "MICHEL HAZANAVICIUS",
+          "count": 34,
+          "state": "displayed",
+          "path": "MICHEL HAZANAVICIUS"
+        },
+        {
+          "name": "Miguel Courtois",
+          "count": 34,
+          "state": "displayed",
+          "path": "Miguel Courtois"
+        },
+        {
+          "name": "ERIC LE ROUX",
+          "count": 33,
+          "state": "displayed",
+          "path": "ERIC LE ROUX"
+        },
+        {
+          "name": "Nicolas Guicheteau",
+          "count": 33,
+          "state": "displayed",
+          "path": "Nicolas Guicheteau"
+        },
+        {
+          "name": "ANNE FONTAINE",
+          "count": 32,
+          "state": "displayed",
+          "path": "ANNE FONTAINE"
+        },
+        {
+          "name": "Cathy Verney",
+          "count": 32,
+          "state": "displayed",
+          "path": "Cathy Verney"
+        },
+        {
+          "name": "LEO ZHANG",
+          "count": 32,
+          "state": "displayed",
+          "path": "LEO ZHANG"
+        },
+        {
+          "name": "Murielle MAGELLAN",
+          "count": 32,
+          "state": "displayed",
+          "path": "Murielle MAGELLAN"
+        },
+        {
+          "name": "Nadav Lapid",
+          "count": 32,
+          "state": "displayed",
+          "path": "Nadav Lapid"
+        },
+        {
+          "name": "CEDRIC KLAPISCH",
+          "count": 31,
+          "state": "displayed",
+          "path": "CEDRIC KLAPISCH"
+        },
+        {
+          "name": "David Morley",
+          "count": 31,
+          "state": "displayed",
+          "path": "David Morley"
+        },
+        {
+          "name": "Florence Foresti",
+          "count": 31,
+          "state": "displayed",
+          "path": "Florence Foresti"
+        },
+        {
+          "name": "Katia LEWKOWICZ",
+          "count": 31,
+          "state": "displayed",
+          "path": "Katia LEWKOWICZ"
+        },
+        {
+          "name": "NAIDRA AYADI",
+          "count": 31,
+          "state": "displayed",
+          "path": "NAIDRA AYADI"
+        },
+        {
+          "name": "TODD ADAM KESSLER",
+          "count": 31,
+          "state": "displayed",
+          "path": "TODD ADAM KESSLER"
+        },
+        {
+          "name": "Beno\u00eet Cohen",
+          "count": 30,
+          "state": "displayed",
+          "path": "Beno\u00eet Cohen"
+        },
+        {
+          "name": "CEDRIC IDO",
+          "count": 30,
+          "state": "displayed",
+          "path": "CEDRIC IDO"
+        },
+        {
+          "name": "CHRISTIAN CARION",
+          "count": 30,
+          "state": "displayed",
+          "path": "CHRISTIAN CARION"
+        },
+        {
+          "name": "Christophe Honor\u00e9",
+          "count": 30,
+          "state": "displayed",
+          "path": "Christophe Honor\u00e9"
+        },
+        {
+          "name": "EVE DEBOISE",
+          "count": 30,
+          "state": "displayed",
+          "path": "EVE DEBOISE"
+        },
+        {
+          "name": "MAURICE BARTHELEMY",
+          "count": 30,
+          "state": "displayed",
+          "path": "MAURICE BARTHELEMY"
+        },
+        {
+          "name": "Ma\u00efmouna Doucour\u00e9",
+          "count": 30,
+          "state": "displayed",
+          "path": "Ma\u00efmouna Doucour\u00e9"
+        },
+        {
+          "name": "ROBIN CAMPILLO",
+          "count": 30,
+          "state": "displayed",
+          "path": "ROBIN CAMPILLO"
+        },
+        {
+          "name": "VIRGINE SCSWARTZ",
+          "count": 30,
+          "state": "displayed",
+          "path": "VIRGINE SCSWARTZ"
+        },
+        {
+          "name": "cheyenne carron",
+          "count": 30,
+          "state": "displayed",
+          "path": "cheyenne carron"
+        },
+        {
+          "name": "ALICE WINOCOUR",
+          "count": 29,
+          "state": "displayed",
+          "path": "ALICE WINOCOUR"
+        },
+        {
+          "name": "Bryan Marciano",
+          "count": 29,
+          "state": "displayed",
+          "path": "Bryan Marciano"
+        },
+        {
+          "name": "Christopher Mac Quarrie",
+          "count": 29,
+          "state": "displayed",
+          "path": "Christopher Mac Quarrie"
+        },
+        {
+          "name": "Claus DREXLER",
+          "count": 29,
+          "state": "displayed",
+          "path": "Claus DREXLER"
+        },
+        {
+          "name": "David Hugonot Petit",
+          "count": 29,
+          "state": "displayed",
+          "path": "David Hugonot Petit"
+        },
+        {
+          "name": "LOUIS FARGE",
+          "count": 29,
+          "state": "displayed",
+          "path": "LOUIS FARGE"
+        },
+        {
+          "name": "Mikhael Hers",
+          "count": 29,
+          "state": "displayed",
+          "path": "Mikhael Hers"
+        },
+        {
+          "name": "RACHID HAMI",
+          "count": 29,
+          "state": "displayed",
+          "path": "RACHID HAMI"
+        },
+        {
+          "name": "Renaud Bertrand - No\u00e9mie Saglio",
+          "count": 29,
+          "state": "displayed",
+          "path": "Renaud Bertrand - No\u00e9mie Saglio"
+        },
+        {
+          "name": "St\u00e9phane Batut",
+          "count": 29,
+          "state": "displayed",
+          "path": "St\u00e9phane Batut"
+        },
+        {
+          "name": "VLADIMIR DE FONTENAY/MARIE MONGE",
+          "count": 29,
+          "state": "displayed",
+          "path": "VLADIMIR DE FONTENAY/MARIE MONGE"
+        },
+        {
+          "name": "YVAN ATTAL",
+          "count": 29,
+          "state": "displayed",
+          "path": "YVAN ATTAL"
+        },
+        {
+          "name": "CHRISTELLE LAMARRE",
+          "count": 28,
+          "state": "displayed",
+          "path": "CHRISTELLE LAMARRE"
+        },
+        {
+          "name": "FABRICE EBOUE",
+          "count": 28,
+          "state": "displayed",
+          "path": "FABRICE EBOUE"
+        },
+        {
+          "name": "Ham\u00e9 et Ekou\u00e9",
+          "count": 28,
+          "state": "displayed",
+          "path": "Ham\u00e9 et Ekou\u00e9"
+        },
+        {
+          "name": "JEREMY GARELICK",
+          "count": 28,
+          "state": "displayed",
+          "path": "JEREMY GARELICK"
+        },
+        {
+          "name": "ANTOINE CHEVROLLIER",
+          "count": 27,
+          "state": "displayed",
+          "path": "ANTOINE CHEVROLLIER"
+        },
+        {
+          "name": "Ludovic BERNARD",
+          "count": 27,
+          "state": "displayed",
+          "path": "Ludovic BERNARD"
+        },
+        {
+          "name": "Noemie Saglio - Renaud Bertrand",
+          "count": 27,
+          "state": "displayed",
+          "path": "Noemie Saglio - Renaud Bertrand"
+        },
+        {
+          "name": "No\u00e9mie Saglio - Renaud Bertrand",
+          "count": 27,
+          "state": "displayed",
+          "path": "No\u00e9mie Saglio - Renaud Bertrand"
+        },
+        {
+          "name": "Suzanne Lindon",
+          "count": 27,
+          "state": "displayed",
+          "path": "Suzanne Lindon"
+        },
+        {
+          "name": "DENIS MALLEVAL",
+          "count": 26,
+          "state": "displayed",
+          "path": "DENIS MALLEVAL"
+        },
+        {
+          "name": "Etienne Chatiliez",
+          "count": 26,
+          "state": "displayed",
+          "path": "Etienne Chatiliez"
+        },
+        {
+          "name": "Hugo G\u00c9LIN",
+          "count": 26,
+          "state": "displayed",
+          "path": "Hugo G\u00c9LIN"
+        },
+        {
+          "name": "Julien PAOLINI",
+          "count": 26,
+          "state": "displayed",
+          "path": "Julien PAOLINI"
+        },
+        {
+          "name": "Ken Scott",
+          "count": 26,
+          "state": "displayed",
+          "path": "Ken Scott"
+        },
+        {
+          "name": "LIU CHUN-CHIEN",
+          "count": 26,
+          "state": "displayed",
+          "path": "LIU CHUN-CHIEN"
+        },
+        {
+          "name": "Nicolas Pariser",
+          "count": 26,
+          "state": "displayed",
+          "path": "Nicolas Pariser"
+        },
+        {
+          "name": "TAREK BOUDALI",
+          "count": 26,
+          "state": "displayed",
+          "path": "TAREK BOUDALI"
+        },
+        {
+          "name": "Thibault Segouin",
+          "count": 26,
+          "state": "displayed",
+          "path": "Thibault Segouin"
+        },
+        {
+          "name": "Claire Denis",
+          "count": 25,
+          "state": "displayed",
+          "path": "Claire Denis"
+        },
+        {
+          "name": "FRANCK GASTAMBIDE",
+          "count": 25,
+          "state": "displayed",
+          "path": "FRANCK GASTAMBIDE"
+        },
+        {
+          "name": "Farid BENTOUMI - Bryan MARCIANO",
+          "count": 25,
+          "state": "displayed",
+          "path": "Farid BENTOUMI - Bryan MARCIANO"
+        },
+        {
+          "name": "LEA MAZER",
+          "count": 25,
+          "state": "displayed",
+          "path": "LEA MAZER"
+        },
+        {
+          "name": "Laure DE BUTLER",
+          "count": 25,
+          "state": "displayed",
+          "path": "Laure DE BUTLER"
+        }
+      ]
+    },
+    {
+      "name": "ardt_lieu",
+      "facets": [
+        {
+          "name": "75018",
+          "count": 1043,
+          "state": "displayed",
+          "path": "75018"
+        },
+        {
+          "name": "75008",
+          "count": 798,
+          "state": "displayed",
+          "path": "75008"
+        },
+        {
+          "name": "75010",
+          "count": 749,
+          "state": "displayed",
+          "path": "75010"
+        },
+        {
+          "name": "75019",
+          "count": 745,
+          "state": "displayed",
+          "path": "75019"
+        },
+        {
+          "name": "75001",
+          "count": 722,
+          "state": "displayed",
+          "path": "75001"
+        },
+        {
+          "name": "75004",
+          "count": 670,
+          "state": "displayed",
+          "path": "75004"
+        },
+        {
+          "name": "75013",
+          "count": 658,
+          "state": "displayed",
+          "path": "75013"
+        },
+        {
+          "name": "75007",
+          "count": 657,
+          "state": "displayed",
+          "path": "75007"
+        },
+        {
+          "name": "75009",
+          "count": 642,
+          "state": "displayed",
+          "path": "75009"
+        },
+        {
+          "name": "75011",
+          "count": 641,
+          "state": "displayed",
+          "path": "75011"
+        },
+        {
+          "name": "75005",
+          "count": 640,
+          "state": "displayed",
+          "path": "75005"
+        },
+        {
+          "name": "75016",
+          "count": 614,
+          "state": "displayed",
+          "path": "75016"
+        },
+        {
+          "name": "75012",
+          "count": 596,
+          "state": "displayed",
+          "path": "75012"
+        },
+        {
+          "name": "75020",
+          "count": 587,
+          "state": "displayed",
+          "path": "75020"
+        },
+        {
+          "name": "75006",
+          "count": 471,
+          "state": "displayed",
+          "path": "75006"
+        },
+        {
+          "name": "75116",
+          "count": 421,
+          "state": "displayed",
+          "path": "75116"
+        },
+        {
+          "name": "75017",
+          "count": 378,
+          "state": "displayed",
+          "path": "75017"
+        },
+        {
+          "name": "75015",
+          "count": 363,
+          "state": "displayed",
+          "path": "75015"
+        },
+        {
+          "name": "75014",
+          "count": 321,
+          "state": "displayed",
+          "path": "75014"
+        },
+        {
+          "name": "75002",
+          "count": 297,
+          "state": "displayed",
+          "path": "75002"
+        },
+        {
+          "name": "75003",
+          "count": 236,
+          "state": "displayed",
+          "path": "75003"
+        },
+        { "name": "93500", "count": 6, "state": "displayed", "path": "93500" },
+        { "name": "94320", "count": 4, "state": "displayed", "path": "94320" },
+        { "name": "92170", "count": 1, "state": "displayed", "path": "92170" },
+        { "name": "92220", "count": 1, "state": "displayed", "path": "92220" },
+        { "name": "93000", "count": 1, "state": "displayed", "path": "93000" },
+        { "name": "93200", "count": 1, "state": "displayed", "path": "93200" },
+        { "name": "93320", "count": 1, "state": "displayed", "path": "93320" }
+      ]
+    }
+  ]
+}
