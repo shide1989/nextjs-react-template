@@ -2,7 +2,6 @@
 
 This is a simple React typescript starter template that includes the following tools :
 
-- Vite 
 - MUI / Tailwind 
 - Cypress 
 - Husky
